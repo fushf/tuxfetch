@@ -1,4 +1,4 @@
-# Tuxfetch
+# tuxfetch
 A simple neofetch-like system info script for Linux.
 
 ## Usage
